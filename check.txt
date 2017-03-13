@@ -1,1 +1,2 @@
 i am practicing git
+and this is my second attempt
